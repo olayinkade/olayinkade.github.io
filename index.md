@@ -29,14 +29,14 @@ Developed Solutions that helped brokers process transaction for customers
 ## Skills
 |Programming Languages | Web Technologies | Tools|
 |---|---|---|
-|	Java | HTML/CSS |Git
-|	GOSU| Bootstrap | SQL
-| C++/C | JavaScript | Android Studio
-|	C#  | Node.JS | .NET
-|	Python | React | Visual Studio
-|	Ruby | jQuery | React Native
-|	Prolog | XML | Mockito
-|	Assembly (LC3)	| JSON | Junit
+|	Java | HTML/CSS |Git|
+|	GOSU| Bootstrap | SQL|
+| C++/C | JavaScript | Android Studio|
+|	C#  | Node.JS | .NET|
+|	Python | React | Visual Studio|
+|	Ruby | jQuery | React Native|
+|	Prolog | XML | Mockito|
+|	Assembly (LC3)	| JSON | Junit|
 
 ## Academic Projects
 **Software Engineering 2 Project**                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01/19 – Present
