@@ -29,7 +29,7 @@ Developed Solutions that helped brokers process transaction for customers
 ## Skills
 
 |Programming Languages | Web Technologies | Tools|
-|---|---|---|
+|:---:|:---:|:---:|
 |	Java | HTML/CSS |Git|
 |	GOSU| Bootstrap | SQL|
 | C++/C | JavaScript | Android Studio|
