@@ -7,7 +7,7 @@ This tutorial shows how you to convert your Resume from a word document to a [Ma
 ### Benefit
 **What will you gain?** This tutorial will help transform and customize your resume to make it look more appealing. Also, it shows you how to host your customized resume online, so that it can be accessed by anyone at anytime. Having your resume online potentially could be useful when you are talking to a prospective employer and you dont have your hard-copy resume to handout. You could share the link and to allow the employer access to your resume anytime
 
-### Prerequisitesz
+### Prerequisites
 You dont need to have any prior knowledge of Jekyll, Markdown or Atom for this tutorial
 Caution : This tutorial assumes you have some knowledge of GitHub. For example, what it means to Clone a Repository, push to a Repository and Pull down from a Repository.
 
