@@ -77,11 +77,12 @@ There are many other Markdown element that could be useful. Check out [Markdown 
 
 4. Click on the create Repository button
 
-5. Clone the Repository
- ~~~
- git clone https://github.com/username/username.github.io
- ~~~
-  **RESULT** : username.github.io would be a directory on computer
+5. Clone the Repository  
+   ~~~
+   git clone https://github.com/username/username.github.io
+   ~~~
+     
+   **RESULT** : username.github.io would be a directory on computer
  
 6. Navigate to username.github.io directory
 
@@ -97,7 +98,7 @@ There are many other Markdown element that could be useful. Check out [Markdown 
     git push -u origin master
     ~~~  
       
-  **WARNING**: The resume you want to be on your GitHub pages must be on the master branch
+    **WARNING**: The resume you want to be on your GitHub pages must be on the master branch
 
 10. Navigate to the username.github.io Repository on GitHub
 
