@@ -67,14 +67,10 @@ There are many other Markdown element that could be useful. Check out [Markdown 
 
 
 ### Jekyll and GitHub instructions
-1. Click on the New Repository button on GitHub
-<br>
-
+1. Click on the New Repository button on GitHub  
   **RESULT** : A new page where you have to fill out the information about the Repository
 
-2. Name the Repository username.github.io where username is your username on GitHub
-<br>
-
+2. Name the Repository username.github.io where username is your username on GitHub  
   **WARNING**: The username in the Repository name has to be the same as your GitHub username for Github to host your resume
 
 3. Select **Public** Repository
@@ -91,9 +87,7 @@ There are many other Markdown element that could be useful. Check out [Markdown 
 
 7. Put your Markdown Resume in the directory
 
-8. Rename your markdown resume to index.md
-<br>
-
+8. Rename your markdown resume to index.md  
   **WARNING**: If you do not rename your resume to 'index', GitHub will not display your resume on GitHub page. GitHub looks for a index.md file to host
 
 9. Push changes to your master branch online Repository
