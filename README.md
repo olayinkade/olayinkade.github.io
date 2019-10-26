@@ -68,34 +68,52 @@ There are many other Markdown element that could be useful. Check out [Markdown 
 
 ### Jekyll and GitHub instructions
 1. Click on the New Repository button on GitHub
-**RESULT** : A new page where you have to fill out the information about the Repository
+<br>
+
+  **RESULT** : A new page where you have to fill out the information about the Repository
+
 2. Name the Repository username.github.io where username is your username on GitHub
 <br>
-**WARNING**: The username in the Repository name has to be the same as your GitHub username for Github to host your resume
+
+  **WARNING**: The username in the Repository name has to be the same as your GitHub username for Github to host your resume
+
 3. Select **Public** Repository
+
 4. Click on the create Repository button
+
 5. Clone the Repository
  ~~~
  git clone https://github.com/username/username.github.io
  ~~~
- **RESULT** : username.github.io would be a directory on computer
+  **RESULT** : username.github.io would be a directory on computer
+ 
 6. Navigate to username.github.io directory
+
 7. Put your Markdown Resume in the directory
+
 8. Rename your markdown resume to index.md
 <br>
-**WARNING**: If you do not rename your resume to 'index', GitHub will not display your resume on GitHub page. GitHub looks for a index.md file to host
+
+  **WARNING**: If you do not rename your resume to 'index', GitHub will not display your resume on GitHub page. GitHub looks for a index.md file to host
+
 9. Push changes to your master branch online Repository
 ~~~
 git add --all
 git commit -m "Initial commit"
 git push -u origin master
 ~~~
-**WARNING**: The resume you want to be on your GitHub pages must be on the master branch
+  **WARNING**: The resume you want to be on your GitHub pages must be on the master branch
+
 10. Navigate to the username.github.io Repository on GitHub
+
 11. Click settings
+
 12. Scroll down to GitHub pages
+
 13. Select the change Theme button
+
 14. Choose a Theme
+
 15. In a browser navigate to https://username.github.io./
 
 Now you have your resume on GitHub pages and can view it anywhere at anytime.
