@@ -117,21 +117,19 @@ Now you have your resume on GitHub pages and can view it anywhere at anytime.
 
 ### FAQ
 
-1. When I want to create a heading does the space between the hashtag and my header need to be there?
+1. When I want to create a heading does the space between the hashtag and my header need to be there?  
   Yes, there has to be a space bettween the hashtag and your heading. This is mainly because Github need it to be formatted this way to render it properly
 
-2. Can I  italicize  or bolden on a heading
+2. Can I  italicize  or bolden a heading?  
 You can italicize a heading, but you can bolden a heading. By default heading are already **bold**
 
-3. What is a YAML file?
+3. What is a YAML file?  
   YAML which stands for YAML Ain't Markup Language and It allows you to provide powerful configuration settings. [Read More...](https://learn.getgrav.org/16/advanced/yaml)
 
-4. Why is there a YAML file in my Repository after I choose a theme?
-
-5. Can I Use other themes than the one GitHub provides.
+4. Can I Use other themes than the one GitHub provides?  
 Yes, you can either import an existing theme that someone else created or you can create your own Jekyll theme to format your resume how you want it. On how to create a theme [Read More ..](https://www.chrisanthropic.com/blog/2016/creating-gem-based-themes-for-jekyll/)
 
-6. Can I host other things apart from a markdown file on GitHub?
+4. Can I host other things apart from a markdown file on GitHub?
 Yes, you can host more things apart from a Markdown file. You can host personal blogs, and websites with  functionality
 
 
