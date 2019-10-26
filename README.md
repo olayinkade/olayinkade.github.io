@@ -90,12 +90,13 @@ There are many other Markdown element that could be useful. Check out [Markdown 
 8. Rename your markdown resume to index.md  
   **WARNING**: If you do not rename your resume to 'index', GitHub will not display your resume on GitHub page. GitHub looks for a index.md file to host
 
-9. Push changes to your master branch online Repository
-~~~
-git add --all
-git commit -m "Initial commit"
-git push -u origin master
-~~~
+9. Push changes to your master branch online Repository  
+    ~~~
+    git add --all
+    git commit -m "Initial commit"
+    git push -u origin master
+    ~~~  
+      
   **WARNING**: The resume you want to be on your GitHub pages must be on the master branch
 
 10. Navigate to the username.github.io Repository on GitHub
