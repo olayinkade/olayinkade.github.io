@@ -1,26 +1,34 @@
-# How to Host Your Formatted Resume on GitHub Pages
+# How to Host Your Resume on GitHub Pages
 
+## Introduction
+### Purpose
+This tutorial shows you how to convert your Resume from a Word document to a [Markdown](https://www.markdownguide.org/) document using an editor like [Atom](https://atom.io/). Also, this tutorial shows how [Jekyll](https://jekyllrb.com/) is used to format your Markdown resume. Jekyll is a tool that transforms plain Markdown Resumes into static websites that can be access anywhere. We are going to use Jekyll themes on GitHub to format the structure of your resume. Additionally, this tutorial shows how to host your formatted resume on [GitHub](https://github.com/) Pages.
 
-### Description
-This tutorial shows you how to convert your Resume from a word document to a [Markdown](https://www.markdownguide.org/) document using an editor like [Atom](https://atom.io/). Also, this tutorial shows how [Jekyll](https://jekyllrb.com/) is used to format your Markdown resume. Jekyll is a tool that transforms plain Markdown Resumes into static websites that can be access anywhere. We are going to use Jekyll themes on GitHub to format the structure of your resume. Additionally, this tutorial shows how to host your formatted resume on [GitHub](https://github.com/) Pages.
-
-### Benefit
 **What will you gain?** This tutorial will help transform and customize your resume to make it look more appealing. Also, it shows you how to host your customized resume online, so that it can be accessed by anyone at anytime. Having your resume online potentially could be useful when you are talking to a prospective employer and you dont have your hard-copy resume to handout. You could share the link and to allow the employer access to your resume anytime.
 
-### Prerequisites
+### Audience
 You dont need to have any prior knowledge of Jekyll, Markdown or [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/) for this tutorial  
-**Caution** : This tutorial assumes you have some knowledge of GitHub. For example, what it means to clone a Repository, push to a Repository and Pull down from a Repository.
+**Caution** : This tutorial assumes you have some knowledge of GitHub. For example, what it means to clone a Repository, push to a Repository and Pull down from a repository.
 
+### Prerequisites
 This tutorial also assumes that:
-* You have a Resume in word
+* You have a Resume in Word
 * You have a [GitHub account](https://github.com/join?source=header-home)
 
-### Atom
-Atom is an editor that allows you to create Markdown files and preview how it is going to look like rendered. To create a Markdown file you need to save the file with extension .md or .markdown. Then to preview the file, select packages -> Markdown preview -> Toggle preview.
+## Instructions
 
-### Markdown instruction
+### Atom
+
+
+### Format Resume in Markdown instruction
 You are going to learn about 3 basic Markdown elements that can be the starting point to writing any resume in Markdown. There are many types of Markdown, but we are going to learn the GitHub Flavored Markdown (GFM). The GFM is the Markdown that GitHub recognizes and the standard that all Markdown file hosted on GitHub has to follow to be rendered correctly.  
-  
+**Are you wondering why Markdown is useful if your resume already looks fine in MS Word?**   
+1. Open Markdown Editor  
+    Atom is an editor that allows you to create Markdown files and preview how it is going to look like rendered. To create a Markdown file you need to save the file with extension .md or .markdown. Then to preview the file, select packages -> Markdown preview -> Toggle preview.
+2. Paste in resource constant
+3. Apply Markdown 
+
+
 #### 1. Headings
   > This can help you separate your resume into section. There are 6 types of heading sizes in markdown.  
   > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. `# Heading`
