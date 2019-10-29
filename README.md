@@ -43,25 +43,25 @@ You are going to learn about 3 basic Markdown elements that can be the starting 
 
 #### 3. Lists
  In your resume you might need a list to show the order an event happened. I am going to show you 2 types of list, unordered list and unordered list
- 1. Unordered List  
-  `* Milk `  
-  `* Eggs `  
-  `* Bread`  
+ 1. Unordered List      
+  `* Milk`      
+  `* Eggs`      
+  `* Bread`    
 
-  which renders in Markdown as  
-  * Milk
-  * Eggs
-  * Bread
+  which renders in Markdown as
+    * Milk
+    * Eggs
+    * Bread
 
  2. Ordered List  
   `1. Milk `  
   `2. Eggs `  
   `3. Bread`  
 
-  which renders in Markdown as
-    1. Milk
-    2. Eggs
-    3. Bread
+  which renders in Markdown as  
+      1. Milk  
+      2. Eggs  
+      3. Bread  
 
 There are many other Markdown element that could be useful. Check out [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for more Markdown element.
 
