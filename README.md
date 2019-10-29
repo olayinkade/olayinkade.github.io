@@ -116,6 +116,14 @@ There are many other Markdown element that could be useful. Check out [Markdown 
 
 Now you have your resume on GitHub pages and can view it anywhere at anytime.
 
+### More Resource
+* To understand what Markdown is 
+* List of other editor that are good for Markdown
+* For Markdown Cheat sheet
+* More information Jekyll
+* GitHub cheat sheet
+* How to install Atom
+
 
 ### FAQ
 
@@ -136,4 +144,4 @@ Now you have your resume on GitHub pages and can view it anywhere at anytime.
 
 
 ### Acknowledgement
-Christina Penner, and members of Group 10.
+Christina Penner, Manasseh Banda and Xiangwei(Max) Zhong
