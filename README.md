@@ -19,10 +19,10 @@ This tutorial also assumes that:
 Atom is an editor that allows you to create Markdown files and preview how it is going to look like rendered. To create a Markdown file you need to save the file with extension .md or .markdown. Then to preview the file, select packages -> Markdown preview -> Toggle preview.
 
 ### Markdown instruction
-You are going to learn about 3 basic Markdown elements that can be the starting point to writing any resume in Markdown. There are many types of Markdown, but we are going to learn the GitHub Flavored Markdown (GFM). The GFM is the Markdown that GitHub recognizes and the standard that all Markdown file hosted on GitHub has to follow to be rendered correctly.
-
+You are going to learn about 3 basic Markdown elements that can be the starting point to writing any resume in Markdown. There are many types of Markdown, but we are going to learn the GitHub Flavored Markdown (GFM). The GFM is the Markdown that GitHub recognizes and the standard that all Markdown file hosted on GitHub has to follow to be rendered correctly.  
+  
 #### 1. Headings
-  > This can help you separate your resume into section. There are 6 types of heading sizes in markdown.
+  > This can help you separate your resume into section. There are 6 types of heading sizes in markdown.  
   > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. `# Heading`
   > # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heading
   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. `## Heading`
@@ -43,20 +43,20 @@ You are going to learn about 3 basic Markdown elements that can be the starting 
 
 #### 3. Lists
  In your resume you might need a list to show the order an event happened. I am going to show you 2 types of list, unordered list and unordered list
- 1. Unordered List
-  `* Milk `
-  `* Eggs `
-  `* Bread`
+ 1. Unordered List  
+  `* Milk `  
+  `* Eggs `  
+  `* Bread`  
 
-  which renders in Markdown as
+  which renders in Markdown as  
   * Milk
   * Eggs
   * Bread
 
- 2. Ordered List
-  `1. Milk `
-  `2. Eggs `
-  `3. Bread`
+ 2. Ordered List  
+  `1. Milk `  
+  `2. Eggs `  
+  `3. Bread`  
 
   which renders in Markdown as
     1. Milk
