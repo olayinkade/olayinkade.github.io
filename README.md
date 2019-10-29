@@ -60,6 +60,7 @@ You are going to learn about 3 basic Markdown elements that can be the starting 
   `3. Bread`  
 
     which renders in Markdown as  
+    
         1. Milk  
         2. Eggs  
         3. Bread  
