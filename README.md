@@ -4,7 +4,7 @@
 ### Purpose
 This tutorial shows you how to convert your Resume from a Word document to a [Markdown](https://www.markdownguide.org/) document using an editor like [Atom](https://atom.io/). Also, this tutorial shows how [Jekyll](https://jekyllrb.com/) is used to format your Markdown resume. Jekyll is a tool that transforms plain Markdown resumes into static websites. We are going to use Jekyll themes on GitHub to format the structure of your resume. Additionally, this tutorial shows how to host your Markdown-formatted resume on [GitHub](https://github.com/) Pages.
 
-**What will you gain?** This tutorial will help transform and customize your resume to make it look more appealing. Also, it shows you how to host your customized resume online, so that it can be accessed by anyone at any time. Having your resume online potentially could be useful when you are talking to a prospective employer and you don't have your hard-copy resume to handout. You can share the link to allow the employer access to your resume any time.
+**What will you gain?** This tutorial will help transform and customize your resume to make it look more appealing. Also, it shows you how to host your customized resume online, so that it can be accessed by anyone at any time. Having your resume online potentially could be useful when you are talking to a prospective employer and you don't have your hard-copy resume to handout. You can share the link to allow the employer access to your resume at any time.
 
 ### Audience
 You don't need to have any prior knowledge of Jekyll, Markdown or [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/) for this tutorial  
@@ -18,7 +18,7 @@ This tutorial also assumes that:
 ## Instructions
 
 ### Format Resume in Markdown instruction
-You are going to learn about 3 basic Markdown elements that can be the starting point to writing any resume in Markdown. There are many types of Markdown, but we are going to learn the GitHub Flavored Markdown (GFM). The GFM is the variation of Markdown that GitHub recognizes and the standard that all Markdown files hosted on GitHub has to follow to be rendered correctly.  
+You are going to learn about 3 basic Markdown elements that can be the starting point to writing any resume in Markdown. There are many types of Markdown, but we are going to learn the GitHub Flavored Markdown (GFM). The GFM is the variation of Markdown that GitHub recognizes and the standard that all Markdown files hosted on GitHub have to follow to be rendered correctly.  
 **Are you wondering why Markdown is useful if your resume already looks fine in MS Word?** Firstly, you have to ability to edit your Markdown files with any text editor. As opposed to using only MS Word. Also, it is easy to maintain version control with Markdown files compared to Ms word documents. So you can have multiple people collaborating in one document. To read on more benefits of Markdown go to [Hackernoon article on Say yes to Markdown, no to MS Word ](https://hackernoon.com/say-yes-to-markdown-no-to-ms-word-be4692e7a8cd) has a good article on that.
 1. Open Markdown Editor  
     Atom is an editor that allows you to create Markdown files and preview how it is going to look like rendered. To create a Markdown file you need to save the file with extension .md or .markdown. Then to preview the file, select packages -> Markdown preview -> Toggle preview.
@@ -46,7 +46,7 @@ The three basic Markdown elements that you can use to convert your Word document
   2.  `**BOLD**` **BOLD**
 
 #### 3. Lists
- In your resume, you might need a list to show the order an event happened. I am going to show you 2 types of list, unordered list, and ordered list
+ In your resume, you might need a list to show the order an event happened. I am going to show you 2 types of list, unordered list and ordered list
  1. Unordered List      
   `* Milk`      
   `* Eggs`      
@@ -69,7 +69,7 @@ The three basic Markdown elements that you can use to convert your Word document
         2. Eggs  
         3. Bread  
 
-There are many other Markdown elements that could be useful. Check out [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for more Markdown elements.
+There are other Markdown elements that could be useful. Check out [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for more Markdown elements.
 
 
 ### Host resume on GitHub Pages
@@ -155,7 +155,7 @@ You have now used a Jeykll theme to make your resume look more appealing.
 > Yes, you can either import an existing theme that someone else created or you can create your Jekyll theme to format your resume how you want it. On how to create a theme [Read More...](https://www.chrisanthropic.com/blog/2016/creating-gem-based-themes-for-jekyll/)
 
 4. Can I host other things apart from a markdown file on GitHub?
-> Yes, you can host more things apart from a Markdown file. You can host personal blogs, and othe websites with functionality
+> Yes, you can host more things apart from a Markdown file. You can host personal blogs and other websites with functionality
 
 
 ### Acknowledgment
