@@ -22,7 +22,7 @@ You are going to learn about 3 basic Markdown elements that can be the starting 
 **Are you wondering why Markdown is useful if your resume already looks fine in MS Word?** Firstly, you have to ability to edit your Markdown files with any text editor. As oppose to using only MS Word. Also, it is easy to maintain version control with Markdown files compared to Ms word documents. So you can have multiple people collaborating in one document. To read on more benefits of Markdown go to [Hackernoon article on Say yes to Markdown, no to MS Word ](https://hackernoon.com/say-yes-to-markdown-no-to-ms-word-be4692e7a8cd) has a good article on that.
 1. Open Markdown Editor  
     Atom is an editor that allows you to create Markdown files and preview how it is going to look like rendered. To create a Markdown file you need to save the file with extension .md or .markdown. Then to preview the file, select packages -> Markdown preview -> Toggle preview.
-2. Paste in resume content
+2. Paste in your resume content
 3. Apply Markdown elements
 The three basic Markdown elements that you can use to format your Word doucment resume into Markdown are
 #### 1. Headings
@@ -116,7 +116,7 @@ GitHub Pages allow us to host our Markdown formatted resume online. So, in this 
 ### Apply Jekyll theme
 Jekyll is a tool that transforms plain Markdown resumes into static websites. Jekyll would give us the ability design our plain Markdown resume. We are going to be using the default Jekyll themes on GitHub to help with formatting. Applying a default theme would improve the way your hosted resume would look on Github Pages
 
-1.  Navigate to the username.github.io repository on GitHub
+1. Navigate to the username.github.io repository on GitHub
 
 2. Click settings
 
@@ -145,16 +145,14 @@ You have now used a Jeykll theme to make your resume look more appealing.
 
 ### FAQ
 
-1. When I want to create a heading does the space between the hashtag and my header need to be there?  
+1. When I create a heading does the space between the hashtag and my header need to be there?  
   > Yes, there has to be a space bettween the hashtag and your heading. This is mainly because Github need it to be formatted this way to render it properly
 
-2. Can I  italicize  or bolden a heading?  
-> You can italicize a heading, but you can bolden a heading. By default heading are already **bold**
 
-3. What is a YAML file?  
+2. What is a YAML file?  
   > YAML which stands for YAML Ain't Markup Language and It allows you to provide powerful configuration settings. [Read More...](https://learn.getgrav.org/16/advanced/yaml)
 
-4. Can I Use other themes than the one GitHub provides?  
+3. Can I Use other themes than the one GitHub provides?  
 > Yes, you can either import an existing theme that someone else created or you can create your own Jekyll theme to format your resume how you want it. On how to create a theme [Read More ..](https://www.chrisanthropic.com/blog/2016/creating-gem-based-themes-for-jekyll/)
 
 4. Can I host other things apart from a markdown file on GitHub?
@@ -162,4 +160,4 @@ You have now used a Jeykll theme to make your resume look more appealing.
 
 
 ### Acknowledgement
-Christina Penner, Manasseh Banda and Xiangwei(Max) Zhong
+ Manasseh Banda and Xiangwei(Max) Zhong
