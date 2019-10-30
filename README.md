@@ -2,13 +2,13 @@
 
 ## Introduction
 ### Purpose
-This tutorial shows you how to convert your Resume from a Word document to a [Markdown](https://www.markdownguide.org/) document using an editor like [Atom](https://atom.io/). Also, this tutorial shows how [Jekyll](https://jekyllrb.com/) is used to format your Markdown resume. Jekyll is a tool that transforms plain Markdown Resumes into static websites that can be access anywhere. We are going to use Jekyll themes on GitHub to format the structure of your resume. Additionally, this tutorial shows how to host your formatted resume on [GitHub](https://github.com/) Pages.
+This tutorial shows you how to convert your Resume from a Word document to a [Markdown](https://www.markdownguide.org/) document using an editor like [Atom](https://atom.io/). Also, this tutorial shows how [Jekyll](https://jekyllrb.com/) is used to format your Markdown resume. Jekyll is a tool that transforms plain Markdown resumes into static websites. We are going to use Jekyll themes on GitHub to format the structure of your resume. Additionally, this tutorial shows how to host your Markdown formatted resume on [GitHub](https://github.com/) Pages.
 
 **What will you gain?** This tutorial will help transform and customize your resume to make it look more appealing. Also, it shows you how to host your customized resume online, so that it can be accessed by anyone at anytime. Having your resume online potentially could be useful when you are talking to a prospective employer and you dont have your hard-copy resume to handout. You could share the link and to allow the employer access to your resume anytime.
 
 ### Audience
 You dont need to have any prior knowledge of Jekyll, Markdown or [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/) for this tutorial  
-**Caution** : This tutorial assumes you have some knowledge of GitHub. For example, what it means to clone a Repository, push to a Repository and Pull down from a repository.
+**Caution** : This tutorial assumes you have some knowledge of GitHub. For example, what it means to clone a repository, push to a repository and Pull down from a repository.
 
 ### Prerequisites
 This tutorial also assumes that:
@@ -17,18 +17,14 @@ This tutorial also assumes that:
 
 ## Instructions
 
-### Atom
-
-
 ### Format Resume in Markdown instruction
 You are going to learn about 3 basic Markdown elements that can be the starting point to writing any resume in Markdown. There are many types of Markdown, but we are going to learn the GitHub Flavored Markdown (GFM). The GFM is the Markdown that GitHub recognizes and the standard that all Markdown file hosted on GitHub has to follow to be rendered correctly.  
-**Are you wondering why Markdown is useful if your resume already looks fine in MS Word?**   
+**Are you wondering why Markdown is useful if your resume already looks fine in MS Word?** Firstly, you have to ability to edit your Markdown files with any text editor. As oppose to using only MS Word. Also, it is easy to maintain version control with Markdown files compared to Ms word documents. So you can have multiple people collaborating in one document. To read on more benefits of Markdown goto [Hackernoon article on Say yes to Markdown, no to MS Word ](https://hackernoon.com/say-yes-to-markdown-no-to-ms-word-be4692e7a8cd) has a good article on that.
 1. Open Markdown Editor  
     Atom is an editor that allows you to create Markdown files and preview how it is going to look like rendered. To create a Markdown file you need to save the file with extension .md or .markdown. Then to preview the file, select packages -> Markdown preview -> Toggle preview.
-2. Paste in resource constant
-3. Apply Markdown 
-
-
+2. Paste in resume content
+3. Apply Markdown elements
+The three basic Markdown elements that you can use to format your Word doucment resume into Markdown are
 #### 1. Headings
   > This can help you separate your resume into section. There are 6 types of heading sizes in markdown.  
   > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. `# Heading`
@@ -76,32 +72,33 @@ You are going to learn about 3 basic Markdown elements that can be the starting 
 There are many other Markdown element that could be useful. Check out [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for more Markdown element.
 
 
-### Jekyll and GitHub instructions
-1. Click on the New Repository button on GitHub  
-  **RESULT** : A new page where you have to fill out the information about the Repository
+### Host resume on GitHub Pages
+GitHub Pages allow us to host our Markdown formatted resume online. So, in this section, we are going to take your resume stored on you local computer , upload it to your GitHub account and preview your Markdown resume using yourGitHub Pages URL  
 
-2. Name the Repository username.github.io where username is your username on GitHub  
-  **WARNING**: The username in the Repository name has to be the same as your GitHub username for Github to host your resume
+1. Click on the New repository button on GitHub  
+  **RESULT** : A new page where you have to fill out the information about the repository
+2. Name the repository username.github.io where username is your username on GitHub  
+  **WARNING**: The username in the repository name has to be the same as your GitHub username for Github to host your resume
 
-3. Select **Public** Repository
+3. Select **Public** repository
 
-4. Click on the create Repository button
+4. Click on the create repository button
 
-5. Clone the Repository  
+5. Clone the repository on your cumputer
    ~~~
    git clone https://github.com/username/username.github.io
    ~~~
      
-   **RESULT** : username.github.io would be a directory on computer
+   **RESULT** : username.github.io would be a directory on your computer
  
 6. Navigate to username.github.io directory
 
 7. Put your Markdown Resume in the directory
 
 8. Rename your markdown resume to index.md  
-  **WARNING**: If you do not rename your resume to 'index', GitHub will not display your resume on GitHub page. GitHub looks for a index.md file to host
+  **WARNING**: If you do not rename your resume file to 'index', GitHub will not display your resume on GitHub page. GitHub looks for a index.md file to host on GitHub Pages
 
-9. Push changes to your master branch online Repository  
+9. Push changes to your master branch online repository  
     ~~~
     git add --all
     git commit -m "Initial commit"
@@ -110,17 +107,26 @@ There are many other Markdown element that could be useful. Check out [Markdown 
       
     **WARNING**: The resume you want to be on your GitHub pages must be on the master branch
 
-10. Navigate to the username.github.io Repository on GitHub
+10. Navigate to the username.github.io repository on GitHub
 
-11. Click settings
+11. In a browser navigate to https://username.github.io./
 
-12. Scroll down to GitHub pages
+**RESULT:** Now when your goto https://username.github.io./ you should be able to see your Markdown formatted resume online. This is progress, but we have one more step to make your resume look more appealing.
 
-13. Select the change Theme button
+### Apply Jekyll theme
+Jekyll is a tool that transforms plain Markdown resumes into static websites. Jekyll would give us the ability design our plain Markdown resume. We are going to be using the default Jekyll themes on GitHub to help with formatting. Applying a default theme would improve the way your hosted resume would look on Github Pages
 
-14. Choose a Theme
+1.  Navigate to the username.github.io repository on GitHub
 
-15. In a browser navigate to https://username.github.io./
+2. Click settings
+
+3. Scroll down to GitHub pages
+
+4. Select the change theme button
+
+5. Choose a theme
+
+6. In a browser navigate to https://username.github.io./
 
 Now you have your resume on GitHub pages and can view it anywhere at anytime.
 
