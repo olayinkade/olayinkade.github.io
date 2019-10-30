@@ -19,7 +19,7 @@ This tutorial also assumes that:
 
 ### Format Resume in Markdown instruction
 You are going to learn about 3 basic Markdown elements that can be the starting point to writing any resume in Markdown. There are many types of Markdown, but we are going to learn the GitHub Flavored Markdown (GFM). The GFM is the variation of Markdown that GitHub recognizes and the standard that all Markdown files hosted on GitHub have to follow to be rendered correctly.  
-**Are you wondering why Markdown is useful if your resume already looks fine in MS Word?** Firstly, you have to ability to edit your Markdown files with any text editor. As opposed to using only MS Word. Also, it is easy to maintain version control with Markdown files compared to Ms word documents. So you can have multiple people collaborating in one document. To read on more benefits of Markdown go to [Hackernoon article on Say yes to Markdown, no to MS Word ](https://hackernoon.com/say-yes-to-markdown-no-to-ms-word-be4692e7a8cd) has a good article on that.
+**Are you wondering why Markdown is useful if your resume already looks fine in MS Word?** Firstly, you have to ability to edit your Markdown files with any text editor. As opposed to using only MS Word. Also, it is easy to maintain version control with Markdown files compared to Ms word documents. So you can have multiple people collaborating in one document. 
 1. Open Markdown Editor  
     Atom is an editor that allows you to create Markdown files and preview how it is going to look like rendered. To create a Markdown file you need to save the file with extension .md or .markdown. Then to preview the file, select packages -> Markdown preview -> Toggle preview.
 2. Paste in your resume content
@@ -140,6 +140,7 @@ You have now used a Jeykll theme to make your resume look more appealing.
 * For the list of top 10 editors that are good for Markdown go to https://www.shopify.ca/partners/blog/10-of-the-best-markdown-editors
 * For Markdown Cheatsheet go to https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * For more information on Jekyll go to https://jekyllrb.com/
+* To read on more benefits of Markdown go to [Hackernoon article on Say yes to Markdown, no to MS Word ](https://hackernoon.com/say-yes-to-markdown-no-to-ms-word-be4692e7a8cd)
 
 
 
