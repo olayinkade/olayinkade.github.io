@@ -19,7 +19,7 @@ This tutorial also assumes that:
 
 ### Format Resume in Markdown instruction
 You are going to learn about 3 basic Markdown elements that can be the starting point to writing any resume in Markdown. There are many types of Markdown, but we are going to learn the GitHub Flavored Markdown (GFM). The GFM is the Markdown that GitHub recognizes and the standard that all Markdown file hosted on GitHub has to follow to be rendered correctly.  
-**Are you wondering why Markdown is useful if your resume already looks fine in MS Word?** Firstly, you have to ability to edit your Markdown files with any text editor. As oppose to using only MS Word. Also, it is easy to maintain version control with Markdown files compared to Ms word documents. So you can have multiple people collaborating in one document. To read on more benefits of Markdown goto [Hackernoon article on Say yes to Markdown, no to MS Word ](https://hackernoon.com/say-yes-to-markdown-no-to-ms-word-be4692e7a8cd) has a good article on that.
+**Are you wondering why Markdown is useful if your resume already looks fine in MS Word?** Firstly, you have to ability to edit your Markdown files with any text editor. As oppose to using only MS Word. Also, it is easy to maintain version control with Markdown files compared to Ms word documents. So you can have multiple people collaborating in one document. To read on more benefits of Markdown go to [Hackernoon article on Say yes to Markdown, no to MS Word ](https://hackernoon.com/say-yes-to-markdown-no-to-ms-word-be4692e7a8cd) has a good article on that.
 1. Open Markdown Editor  
     Atom is an editor that allows you to create Markdown files and preview how it is going to look like rendered. To create a Markdown file you need to save the file with extension .md or .markdown. Then to preview the file, select packages -> Markdown preview -> Toggle preview.
 2. Paste in resume content
@@ -111,7 +111,7 @@ GitHub Pages allow us to host our Markdown formatted resume online. So, in this 
 
 11. In a browser navigate to https://username.github.io./
 
-**RESULT:** Now when your goto https://username.github.io./ you should be able to see your Markdown formatted resume online. This is progress, but we have one more step to make your resume look more appealing.
+**RESULT:** Now when your goto https://username.github.io./ you should be able to see your Markdown formatted resume online which can be accessed anywhere at anytime. This is progress, but we have one more step to make your resume look more appealing.
 
 ### Apply Jekyll theme
 Jekyll is a tool that transforms plain Markdown resumes into static websites. Jekyll would give us the ability design our plain Markdown resume. We are going to be using the default Jekyll themes on GitHub to help with formatting. Applying a default theme would improve the way your hosted resume would look on Github Pages
@@ -124,19 +124,23 @@ Jekyll is a tool that transforms plain Markdown resumes into static websites. Je
 
 4. Select the change theme button
 
-5. Choose a theme
+5. Choose a theme    
+**Result :** IF you navigate to https://username.github.io./ this theme would be applied on your resume. Also, if you check your repository, it would contain a readme of the theme and `_Config.yml` file.
 
-6. In a browser navigate to https://username.github.io./
+6. Update the `_Config.yml` add `title: My Resume` to the the file  
+**Result :** This would change the  title of your hosted resume to 'My Resume' 
 
-Now you have your resume on GitHub pages and can view it anywhere at anytime.
+You have now used a Jeykll theme to make your resume look more appealing.
+
+
 
 ### More Resource
-* To understand what Markdown is 
-* List of other editor that are good for Markdown
-* For Markdown Cheat sheet
-* More information Jekyll
-* GitHub cheat sheet
-* How to install Atom
+* To understand what Markdown go to https://www.markdownguide.org/
+* For how to install Atom go to https://flight-manual.atom.io/getting-started/sections/installing-atom/
+* For the list of top 10 editors that are good for Markdown go to https://www.shopify.ca/partners/blog/10-of-the-best-markdown-editors
+* For Markdown Cheat sheet go to https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* For more information on Jekyll go to https://jekyllrb.com/
+
 
 
 ### FAQ
